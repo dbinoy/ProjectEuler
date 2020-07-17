@@ -4,4 +4,4 @@
 
 ## Table of Contents
 
-- [254. Sums of Digit Factorials](Problem254/README/md)
+- [254. Sums of Digit Factorials](Problem254/README.md)
